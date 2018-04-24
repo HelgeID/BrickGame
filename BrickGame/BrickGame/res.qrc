@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>blocks/black_block.png</file>
+        <file>blocks/blue_block.png</file>
+        <file>blocks/green_block.png</file>
+        <file>blocks/light_blue_block.png</file>
+        <file>blocks/orange_block.png</file>
+        <file>blocks/purple_block.png</file>
+        <file>blocks/red_block.png</file>
+        <file>blocks/yellow_block.png</file>
+		<file>balls/black_ball.png</file>
+		<file>balls/blue_ball.png</file>
+		<file>balls/green_ball.png</file>
+		<file>balls/light_blue_ball.png</file>
+		<file>balls/orange_ball.png</file>
+		<file>balls/purple_ball.png</file>
+		<file>balls/red_ball.png</file>
+		<file>balls/yellow_ball.png</file>
+		<file>player/player.png</file>
+    </qresource>
+</RCC>
