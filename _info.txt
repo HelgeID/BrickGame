@@ -1,0 +1,2 @@
+*BrickGame*
+Project was developed on Qt! (technology - Qt Widgets)
